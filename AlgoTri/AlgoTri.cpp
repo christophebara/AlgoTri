@@ -45,7 +45,7 @@ int main(int argc, char *argv[])
 	{
 		case 1:
 		{
-			cout << "the argument list must contain at least one word or be called with -file <filename>.\nThe -inverse parameter to indicate an on alphabetic sort is optional\n";
+			cout << "Argumentq list must contain at least one word or -file <filename>.\nThe -inverse optional parameter could be use to indicate an alphabetic sort\n";
 			return ExitWithCode(-1);
 		}
 		case 2:
